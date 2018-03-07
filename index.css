@@ -7,4 +7,9 @@ body {
   background-size: cover;
   background-positin: center;
   font-family: Lato;
+  color: white;
+}
+h1 {
+  font-weight: 700;
+  font-size: 5em;
 }
